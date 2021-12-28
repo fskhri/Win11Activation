@@ -3,7 +3,7 @@
 
 Use Windows forever without cracking. If you can, [buy a license](https://www.microsoft.com/en-us/software-download/windows11) to support the developer
 
-My GitHub Gist [Gist](https://gist.github.com/fskhrijuanda/31d00c0a080d39598ead879b66588ac4)
+Version GitHub Gist [Win11Activation](https://gist.github.com/fskhrijuanda/31d00c0a080d39598ead879b66588ac4)
 
 
 ### Donate
